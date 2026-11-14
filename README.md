@@ -41,6 +41,13 @@
 
 或者直接把本仓库的 `SKILL.md` 内容粘贴给 AI 助手，说"按这个技能的规则帮我选合同模式"。
 
+**国内网络访问 GitHub 慢？** 用 Gitee 镜像，内容完全一致：
+
+```
+请安装这个技能：https://gitee.com/fethan/mining-contract-generator-lite
+读取其中的 SKILL.md 并按说明执行。
+```
+
 ---
 
 ## 3 问决策树：定模式
