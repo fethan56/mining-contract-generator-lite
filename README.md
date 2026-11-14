@@ -87,7 +87,7 @@ Q3 项目还在前期（可研 / 试验 / 诊断 / EPCM），没有确定性产�
 
 ## 脱敏示例
 
-见 [examples/demo_standard_mode_redacted.md](examples/demo_standard_mode_redacted.md)——标准模式正式合同的**打码版**，让你在付费前看清输出质量。
+见 [demo_standard_mode_redacted.md](demo_standard_mode_redacted.md)——标准模式正式合同的**打码版**，让你在付费前看清输出质量。
 
 ---
 
